@@ -1,0 +1,5 @@
+n = input("how old are you?")
+yob = 2018- int(n)
+print ("you are born in" , yob , "?")
+answer = input ("yes or no?")
+print (answer)
